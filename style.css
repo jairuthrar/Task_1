@@ -62,13 +62,15 @@ a{
 .footer p
 {
 font-family: 'Inter', sans-serif; 
-font-size: 20px;
+font-size: 25px;
 font-weight: 600; 
 color: hsl(0, 0%, 100%);
 }
 
+
 .image {
     position: relative;
+    border-radius: 5px;
   
 }
 
